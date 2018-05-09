@@ -1,3 +1,8 @@
 1
+<<<<<<< HEAD
 on master
 on master again
+=======
+on the branch
+new on the branch
+>>>>>>> remotes/origin/branch1
