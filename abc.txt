@@ -2,3 +2,4 @@ master master master
 commit 1 master
 commit 2 master
 branch commit 1
+branch commit 2
